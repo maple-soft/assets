@@ -12,3 +12,4 @@ Maple Software is a fictional company.
 
 ![maple-logo-no-bg-cropped](https://user-images.githubusercontent.com/16090899/202785586-b4b6025f-0b6b-4c8d-bb97-49f8f3a8371a.png)
 
+![maple-gray](https://user-images.githubusercontent.com/16090899/202797233-4cd3a419-ab2e-477a-becf-f3fece67a9ab.png)
